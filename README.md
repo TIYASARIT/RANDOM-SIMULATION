@@ -1,0 +1,1 @@
+This code was written to understand the concept of  curve fitting on real and smoothed data. The dataset used to test the concepts is https://www.kaggle.com/code/swatikhedekar/weather-dataset-python-project
